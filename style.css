@@ -1,0 +1,19 @@
+.div {
+    margin: auto;
+    text-align: center;
+}
+
+.input-number {
+    padding: 8px;
+    border-radius: 10px;
+    text-align: end;
+}
+
+.btn {
+    background-color: rgb(63, 72, 205);
+    border: 0ch;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
